@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **simrankaurgulati2006@gmail.com**
 
-- ⚡ Fun fact **Prefering Solitary over toxicity🌟❤️**
+- ⚡ Fun fact **A dynamic individual who can turn any challenge into an opportunity, all while keeping a smile on the face 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
