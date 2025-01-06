@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGbbnWJhsI/qMRI39GKaR-pWn-2pdBNeA/view?utm_content=DAGbbnWJhsI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h077c0a1650)
+![logo](https://github.com/simrankaurgulati2006/simrankaurgulati2006/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Simran</h1>
 <h3 align="center">A passionate Web Devloper and CyberSecurity Enthussiast</h3>
 
