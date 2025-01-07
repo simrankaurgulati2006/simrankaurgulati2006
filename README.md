@@ -1,4 +1,4 @@
-![logo](https://github.com/simrankaurgulati2006/simrankaurgulati2006/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://www.canva.com/design/DAGbbnWJhsI/Bqj16U5QoRav578u0OU_7g/view)
 <h1 align="center">Hi 👋, I'm Simran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
