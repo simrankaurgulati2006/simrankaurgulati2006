@@ -1,4 +1,4 @@
-
+![logo](./Simran%20linkedin%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Simran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
