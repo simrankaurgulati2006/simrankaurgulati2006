@@ -26,7 +26,7 @@
 <a href="https://kaggle.com/simran202006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="simran202006" height="30" width="40" /></a>
 <a href="https://instagram.com/simrankaur_.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simrankaur_.20" height="30" width="40" /></a>
 
-<img src="coding image.gif" align="left">
+<img src="coding image.gif" align="right" height=100px width=100px>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
