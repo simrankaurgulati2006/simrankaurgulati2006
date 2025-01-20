@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrankaurgulati2006&label=Profile%20views&color=0e75b6&style=flat" alt="simrankaurgulati2006" /> </p>
 
-<p align="left"> <a href="https://twitter.com/simrank52711206" target="blank"><img src="https://img.shields.io/twitter/follow/simrank52711206?logo=twitter&style=for-the-badge" alt="simrank52711206" /></a> </p>
+<p align="left" size='50px'> <a href="https://twitter.com/simrank52711206" target="blank"><img src="https://img.shields.io/twitter/follow/simrank52711206?logo=twitter&style=for-the-badge" alt="simrank52711206" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Fitness Tracker app**
 
