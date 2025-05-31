@@ -7,11 +7,7 @@
 
 <p align="left" size='50px'> <a href="https://twitter.com/simrank52711206" target="blank"><img src="https://img.shields.io/twitter/follow/simrank52711206?logo=twitter&style=for-the-badge" alt="simrank52711206" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Fitness Tracker app**
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 💬 Ask me about **Frontend Development, Network Security , Cloud, DSA**
+- 💬 Ask me about  **Frontend Development, Network Security , Cloud, DSA**
 
 - 📫 How to reach me **simrankaurgulati2006@gmail.com**
 
