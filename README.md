@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **simrankaurgulati2006@gmail.com**
 
-- ⚡ Fun Fact **i write code and breaks stereotypes daily👩‍💻🚀**
   
 
 <h3 align="left">Connect with me:</h3>
