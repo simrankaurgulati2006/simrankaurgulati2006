@@ -9,7 +9,7 @@
 
 - 💬 Ask me about  **MERN, Network Security ,Cloud , DSA**
 
-- 📫 How to reach me **simrankaurgulati2006@gmail.com**
+- 📫 How to reach me **simrankaur200620@gmail.com**
 
   
 
